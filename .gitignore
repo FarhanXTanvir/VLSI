@@ -1,0 +1,8 @@
+images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.docx
+*.pdf
+!Exp*_Labsheet.pdf
